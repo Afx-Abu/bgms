@@ -15,27 +15,6 @@
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser)
 
-
-
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
   
-### *The Hard Method*
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/Aj-fx/Kaztro_ser
-$ cd Kaztro_ser
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/Aj-fx/Kaztro_ser
-$ cd Kaztro_ser
-$ npm i
-$ node julie.js
-```
