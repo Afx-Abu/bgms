@@ -1,3 +1,4 @@
+## _[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=V33A6A&lines=WELCOME+TO++KAZTROSER+WA++BOT++REPO;BOT+OWNER+AJ+FX)](https://git.io/typing-svg)_
 
 
 <div align="center">  
@@ -10,7 +11,7 @@
 </p>
 </div>
 
-  ### Simple Method
+  ### *Simple Method*
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztroser)
 
@@ -19,7 +20,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
   
-### The Hard Method
+### *The Hard Method*
 ```js
 GET QR
 $ apt install git
