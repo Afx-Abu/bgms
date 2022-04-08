@@ -4,6 +4,6 @@
 
 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
 
-<a href="https://replit.com/@Aj-fx/Kaztroser?v=1" target="_blank"><img src="https://img.shields.io/badge/Fo-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+<a href="https://github.com/Aj-fx/Ajfx-v1/fork" target="_blank"><img src="https://img.shields.io/badge/Fo-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 </div>
